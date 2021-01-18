@@ -1,0 +1,145 @@
+.maska{
+    width: 100%;
+}
+.birinchi {
+    height: auto;
+    text-align: center;
+}
+.birinchi h1 {
+    width: auto;
+    height: auto;
+    font-size: 2.2em;
+    margin-top: 30px;
+    line-height: 38px;
+    text-align: center;
+}
+.buttons > a{
+    display: inline-block;
+    margin: 15px 0;
+    width: 70%;
+    font-size: 1.2em;
+}
+.buttons > a:nth-child(2){
+    font-size: 1.2em;
+}
+.birinchi img {
+    position: relative;
+    bottom: -0;
+    right: 0px;
+    width: 80%;
+}
+
+.ikkinchi .head > h3 {
+    font-size: 1.8em;
+}
+.ikkinchi div.items > div {
+    min-width: 180px;
+    max-width: 333px;
+    width: 100% !important;
+    margin-left: 0;
+    margin: 30px 0;
+}
+
+.ikkinchi .bottom > h1 {
+    font-size: 1.8em;
+}
+.ikkinchi .bottom > video {
+    width: 100%;
+    height: auto;
+}
+
+.uchinchi h1 {
+    font-size: 1.8em;
+}
+
+.uchinchi .items > div {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.uchinchi .items > div > h4{
+    width: auto;
+}
+.uchinchi .items > div > p {
+    width: auto;
+}
+.uchinchi .items > div > h3{
+    margin: 0;
+}
+
+
+.turtinchi h1{
+    font-size: 1.8em;
+}
+
+.turtinchi .items > div > img{
+    width: 42%;
+}
+.turtinchi .items > div {
+    width: 100%;
+    margin: 20px 0;
+    text-align: center;
+    height: auto;
+}
+
+
+
+
+.beshinchi h1{
+    font-size: 1.8em;
+}
+
+.beshinchi p{
+    text-align: center;
+}
+
+.beshinchi .items > div{
+    width: 100%;
+    border-bottom: 0.5px solid #ff3c0050;
+    margin-bottom: 20px;
+}
+
+.beshinchi .items > div:last-child{
+    border-bottom: 0;
+}
+
+.img-vs-about > div.left, .img-vs-about > div.right{
+    margin-right: 0;
+    width: 100%;
+}
+
+.img-vs-about > div.left > img{
+    width: 100%;
+}
+
+.img-vs-about > div.right h3{
+    margin-top: 20px; 
+    text-align: center;
+}
+
+.img-vs-about > div.right div.buttons {
+    text-align: center;
+}
+.img-vs-about > div.right div.buttons > a{
+    margin-right: 0;
+    display: inline-block;
+}
+.buttons > a:nth-child(2){
+    margin-left: 0;
+}
+.img-vs-about > div.right div.buttons > a:nth-child(2){
+    font-size: 1.2em;
+
+}
+
+
+
+footer div.item{
+    width: 100% !important;
+    margin-right: 0 !important;
+    margin: 30px 0;
+    text-align: center;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
